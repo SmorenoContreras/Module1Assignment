@@ -4,7 +4,6 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 <br>
 <h1>Acceptance Criteria</h1>
-<br>
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
